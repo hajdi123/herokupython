@@ -1,0 +1,1 @@
+web: gunicorn dataproject:app --log-file-
