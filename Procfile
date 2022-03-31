@@ -1,0 +1,1 @@
+web: gunicorn dataproject1.py:app --log-file-
